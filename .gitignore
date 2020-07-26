@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-pascal
+uim-pascal.so
+uim-pascal.dylib
+uim-pascal.dll
+uim-pascal.a
+uim-pascal.lib
+uim-pascal-test-*
+*.exe
+*.o
+*.obj
+*.lst
